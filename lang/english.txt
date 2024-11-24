@@ -1,0 +1,9 @@
+##plural 0
+
+STR_GOAL_START               :{BLACK}He's making a list,{}He's checking it twice!{}He's sorting it by,{}Who's been naughty to nice!{}{}And depending how many {WHITE}{CARGO_LIST}{BLACK} and {WHITE}{CARGO_LIST}{BLACK} get delivered to {WHITE}Present Drop-off Point{BLACK} will determine where he draws that line between naughty and nice.{}{}This area is within Santa's time anomaly (which is how he delivers everything in one night) and so there is no time limit.{}{}The total ammounts per company and overall can be seen via the Goal menu (the Flag icon at the top)
+
+STR_GOAL_TEXT                :{BLACK}Total {WHITE}{CARGO_LIST}{BLACK} delivered {WHITE}{NUM}{BLACK}:  Last Month:{WHITE}{NUM}{}
+STR_GOAL_SUPPLY_TEXT         :{BLACK}Total {WHITE}{CARGO_LIST}{BLACK} supplies delivered {WHITE}{NUM}{BLACK}:  Last Month:{WHITE}{NUM}{}
+
+STR_GOOD_DELIVERED           :{ORANGE}Total {WHITE}{CARGO_LIST}{ORANGE} Delivered: {WIHTE}{NUM}{ORANGE}  Last Month:{WHITE}{NUM}{}
+STR_BAD_DELIVERED            :{BLACK}Total {WHITE}{CARGO_LIST}{BLACK} Delivered: {WIHTE}{NUM}{BLACK}  Last Month:{WHITE}{NUM}{}
