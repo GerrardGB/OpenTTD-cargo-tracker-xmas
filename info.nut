@@ -7,7 +7,7 @@ require("version.nut");
 class FMainClass extends GSInfo {
 	function GetAuthor()		{ return "Gerard"; }
 	function GetName()			{ return "Cargo Tracker - Xmas"; }
-	function GetDescription() 	{ return "Tracks two types of cargoes for a Xmas competition."; }
+	function GetDescription() 	{ return "Tracks two types of cargoes for a Xmas competition. v1.1"; }
 	function GetVersion()		{ return SELF_VERSION; }
 	function GetDate()			{ return SELF_DATE; }
 	function CreateInstance()	{ return "MainClass"; }
