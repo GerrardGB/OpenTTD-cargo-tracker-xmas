@@ -2,14 +2,14 @@
  * This file is part of a game script for OpenTTD: Cargo Tracker - Xmas
  */
 
-require("version.nut");
+//require("version.nut");
 
 class FMainClass extends GSInfo {
 	function GetAuthor()		{ return "Gerard"; }
 	function GetName()			{ return "Cargo Tracker - Xmas"; }
 	function GetDescription() 	{ return "Tracks two types of cargoes for a Xmas competition. v1.1"; }
-	function GetVersion()		{ return SELF_VERSION; }
-	function GetDate()			{ return SELF_DATE; }
+	function GetVersion()		{ return 2; }
+	function GetDate()			{ return "2024/11/25"; }
 	function CreateInstance()	{ return "MainClass"; }
 	function GetShortName()		{ return "CTRK"; }
 	function GetAPIVersion()	{ return "1.3"; }
